@@ -1,2 +1,15 @@
-html,body{margin:0;padding:0;overflow:hidden}
+html,body{
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    color: rgb(172, 255, 90);
+    font-size: small;
+    font-family:'Courier New', Courier, monospace;
+    background-color:black;
+    text-align: center;
+    }
 /*# sourceMappingURL=index.90af0a4b.css.map */
+header{
+    text-align: center;
+    color: rgb(229, 255, 0);
+}
