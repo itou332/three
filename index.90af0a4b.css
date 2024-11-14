@@ -2,7 +2,7 @@ html,body{
     margin:0;
     padding:0;
     overflow:hidden;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: small;
     font-family:'Courier New', Courier, monospace;
     background-color:black;
@@ -11,5 +11,5 @@ html,body{
 /*# sourceMappingURL=index.90af0a4b.css.map */
 header{
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
