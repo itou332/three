@@ -20,9 +20,22 @@ header {
 footer {
   color: #fff;
   text-align: center;
-  margin-top: 30%;
-  margin-left: -20px;
-  display: inline;
+  margin-top: 400px;
+  margin-left: 49%;
   position: absolute;
+}
+
+@media (width <= 1152px) {
+  .tetris-grid {
+    text-align: center;
+    margin-left: 49.5%;
+  }
+}
+
+@media (width <= 768px) {
+  .tetris1-grid {
+    text-align: center;
+    margin-left: 51.5%;
+  }
 }
 /*# sourceMappingURL=index.af20ad6e.css.map */
